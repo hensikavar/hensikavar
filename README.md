@@ -15,7 +15,7 @@ Currently, I'm working on **projects that integrate LLMs** and actively contribu
 ---
 
 ### 📊 GitHub Stats & Achievements
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hensikavar&show_icons=true&theme=dark" alt="Hensi Kavar | GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hensikavar&show_icons=true&theme=light" alt="Hensi Kavar | GitHub Stats" />
 
 ---
 
